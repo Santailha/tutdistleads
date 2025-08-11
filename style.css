@@ -51,9 +51,14 @@ main img{
     margin: 0 0 3rem 0;
 }
 
+.pisca-alerta {
+    color: yellow;
+}
+
 @media (min-width: 768px) {
     main img {
         width: 50%;
         max-width: 720px;
     }
+
 }
