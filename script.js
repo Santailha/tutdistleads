@@ -10,4 +10,4 @@ function piscar() {
         }
     });
 }
-setInterval(piscar, 300);
+setInterval(piscar, 500);
