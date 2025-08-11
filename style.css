@@ -7,8 +7,8 @@
 
 body{
     background-color: #3d347d;
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: white;
+    font-family:'manrope';
 }
 
 
@@ -17,14 +17,15 @@ header{
 }
 
 header img{
-    width: 150px;
+    width: 200px;
+    height: auto;
 }
 
 header h1{
     margin: 4rem 0 1rem 0;
 }
 
-header h2{
+h2{
     font-size: 0.8rem;
 }
 
@@ -62,3 +63,4 @@ main img{
     }
 
 }
+
